@@ -12,4 +12,5 @@
 ![image](https://github.com/chiphome/Electronic-Comics/raw/master/comics_9.png)
 ![image](https://github.com/chiphome/Electronic-Comics/raw/master/comics_10.jpg)
 ![image](https://github.com/chiphome/Electronic-Comics/raw/master/comics_11.png)
+![image](https://github.com/chiphome/Electronic-Comics/raw/master/comics_12.jpg)
 
