@@ -86,4 +86,8 @@
 ![image](https://github.com/chiphome/Electronic-Comics/raw/master/comics_83.jpg)
 ![image](https://github.com/chiphome/Electronic-Comics/raw/master/comics_84.jpg)
 ![image](https://github.com/chiphome/Electronic-Comics/raw/master/comics_85.png)
+![image](https://github.com/chiphome/Electronic-Comics/raw/master/comics_86.jpg)
+![image](https://github.com/chiphome/Electronic-Comics/raw/master/comics_87.jpg)
+![image](https://github.com/chiphome/Electronic-Comics/raw/master/comics_88.jpg)
+![image](https://github.com/chiphome/Electronic-Comics/raw/master/comics_89.jpg)
 ![image](https://github.com/chiphome/Electronic-Comics/raw/master/芯片之家微信群.jpg)
